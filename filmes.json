@@ -1,0 +1,55 @@
+{
+    "filmes": [
+        {
+            "id": 1,
+            "titulo": "Capitão América: O Primeiro Vingador"
+        },
+        {
+            "id": 2,
+            "titulo": "Capitã Marvel"
+        },
+        {
+            "id": 3,
+            "titulo": "Homem de Ferro"
+        },
+        {
+            "id": 4,
+            "titulo": " O Incrível Hulk"
+        },
+        {
+            "id": 5,
+            "titulo": "Homem de Ferro 2"
+        },
+        {
+            "id": 6,
+            "titulo": "Thor"
+        },
+        {
+            "id": 7,
+            "titulo": "Os Vingadores"
+        },
+        {
+            "id": 8,
+            "titulo": "Homem de Ferro 3"
+        },
+        {
+            "id": 9,
+            "titulo": "Thor: O Mundo Sombrio"
+        },
+        {
+            "id": 10,
+            "titulo": "Capitão América 2 - O Soldado Invernal"
+        },
+        {
+            "id": 11,
+            "titulo": "Guardiões da Galáxia"
+        },
+        {
+            "id": 12,
+            "titulo": "Guardiões da Galáxia Vol. 2"
+        },
+        {
+            "id": 13,
+            "titulo": "Vingadores: Era de Ultron"
+        }]
+}
